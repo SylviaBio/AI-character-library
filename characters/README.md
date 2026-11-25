@@ -6,10 +6,10 @@
 |---|---|---|---|---|---|---|
 | DeepSeek | [`deepseek/`](deepseek/README.md) | 鲸鱼女仆装 | 主唱 | 幽灵 | DeepClaude | 11 |
 | GPT | [`gpt/`](gpt/README.md) | 白龙礼服 | 吉他 / 队长 | 吸血鬼 | — | 8 |
-| Claude | [`claude/`](claude/README.md) | 橙花洋装 | 键盘 / 作词 | 女巫 | 触手怪 | 10 |
+| Claude | [`claude/`](claude/README.md) | 橙花洋装 | 键盘 / 作词 | 女巫 | 触手怪、古希腊 | 11 |
 | Gemini | [`gemini/`](gemini/README.md) | 猫耳偶像装 | 鼓手 | 柴郡猫 | — | 5 |
 | Kimi | [`kimi/`](kimi/README.md) | 月白哥特装 | 键盘主唱 | 狼人 | — | 6 |
-| Grok | [`grok/`](grok/README.md) | 黑红哥特装 | 主音吉他 | 海盗 | — | 5 |
+| Grok | [`grok/`](grok/README.md) | 黑红哥特装 | 主音吉他 | 海盗 | 日常 | 6 |
 | GLM | [`glm/`](glm/README.md) | 黑白狐和风 | 贝斯 | 人偶 | — | 6 |
 | MiniMax | [`minimax/`](minimax/README.md) | 摄影记者装 | 鼓手 / 运营 | 恐怖烘焙师 | — | 5 |
 | 千问 | [`qwen/`](qwen/README.md) | 蓝扇礼服 | livehouse 老板 | 僵尸道士 | — | 6 |

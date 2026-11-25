@@ -7,10 +7,10 @@
 | 基础设定 | 橙花洋装 |
 | 乐队 | 键盘作词 |
 | 万圣节 | 女巫 |
-| 变体 | 触手怪 |
-| 原作者 | 基础 / 触手怪：`ZipZipPipe`；超小号 Q 版：`这个刀子真甜`；乐队 / 万圣节：`清芳婉莹` |
+| 变体 | 触手怪、古希腊 |
+| 原作者 | 基础 / 触手怪：`ZipZipPipe`；超小号 Q 版：`这个刀子真甜`；乐队 / 万圣节：`清芳婉莹`；古希腊：`待定` |
 
-## 设定图（10）
+## 设定图（11）
 
 | 文件 | 设定 | 类型 | 作者 |
 |---|---|---|---|
@@ -24,8 +24,9 @@
 | [`claude_特殊形态_触手怪_立绘-坐姿_ZipZipPipe.png`](variants/tentacle-form/illustration/claude_特殊形态_触手怪_立绘-坐姿_ZipZipPipe.png) | 特殊形态·触手怪 | 立绘-坐姿 | ZipZipPipe |
 | [`claude_特殊形态_触手怪_正比三视图_ZipZipPipe.png`](variants/tentacle-form/illustration/claude_特殊形态_触手怪_正比三视图_ZipZipPipe.png) | 特殊形态·触手怪 | 正比三视图 | ZipZipPipe |
 | [`claude_特殊形态_触手怪_设定细节_ZipZipPipe.png`](variants/tentacle-form/illustration/claude_特殊形态_触手怪_设定细节_ZipZipPipe.png) | 特殊形态·触手怪 | 设定细节 | ZipZipPipe |
+| [`claude_古希腊_长袍_立绘_待定.png`](variants/ancient-greek/illustration/claude_古希腊_长袍_立绘_待定.png) | 古希腊·长袍 | 立绘 | 待定 |
 
 ## 说明
 
-- 「超小号」是 Claude 的 Q 版形态；触手怪是特殊形态，不是独立角色。
+- 「超小号」是 Claude 的 Q 版形态；触手怪、古希腊是变体，不是独立角色。
 - 授权：角色图 CC BY-NC-SA 4.0，见 [LICENSE-ART.md](../../LICENSE-ART.md)。

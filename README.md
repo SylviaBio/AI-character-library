@@ -8,10 +8,10 @@
 |---|---|---|---|---|
 | [DeepSeek](characters/deepseek/) | 鲸鱼女仆装 | 主唱 | 幽灵 | DeepClaude |
 | [GPT](characters/gpt/) | 白龙礼服 | 吉他 / 队长 | 吸血鬼 | — |
-| [Claude](characters/claude/) | 橙花洋装 | 键盘 / 作词 | 女巫 | 触手怪 |
+| [Claude](characters/claude/) | 橙花洋装 | 键盘 / 作词 | 女巫 | 触手怪、古希腊 |
 | [Gemini](characters/gemini/) | 猫耳偶像装 | 鼓手 | 柴郡猫 | — |
 | [Kimi](characters/kimi/) | 月白哥特装 | 键盘主唱 | 狼人 | — |
-| [Grok](characters/grok/) | 黑红哥特装 | 主音吉他 | 海盗 | — |
+| [Grok](characters/grok/) | 黑红哥特装 | 主音吉他 | 海盗 | 日常 |
 | [GLM](characters/glm/) | 黑白狐和风 | 贝斯 | 人偶 | — |
 | [MiniMax](characters/minimax/) | 摄影记者装 | 鼓手 / 运营 | 恐怖烘焙师 | — |
 | [千问](characters/qwen/) | 蓝扇礼服 | livehouse 老板 | 僵尸道士 | — |
@@ -63,7 +63,7 @@ AI-character-library/
 | 字段 | 取值 |
 |---|---|
 | 角色名 | `deepseek` / `gpt` / `claude` / `gemini` / `kimi` / `grok` / `glm` / `minimax` / `qwen` / `doubao` / `wenxin` / `zcode` |
-| 设定背景 | `基础` / `乐队` / `万圣节` / `特殊形态` |
+| 设定背景 | `基础` / `乐队` / `万圣节` / `日常` / `古希腊` / `特殊形态` |
 | 设定名 | 服装、位置或形态：`鲸鱼女仆装` / `主唱` / `幽灵` / `触手怪` |
 | 图片类型 | `立绘` / `幼年立绘` / `正比三视图` / `Q版立绘` / `Q版三视图` / `设定细节` |
 | 原作者 | 实际出图作者：`ZipZipPipe` / `这个刀子真甜` / `PalAILab` / `清芳婉莹` |
@@ -92,6 +92,7 @@ claude_万圣节_女巫_立绘_清芳婉莹.png
 - DeepSeek 鲸鱼女仆装 Q 版三视图、Claude 超小号、GPT 小傻子版：`这个刀子真甜`
 - DeepClaude：`PalAILab`
 - 乐队、万圣节：`清芳婉莹`
+- Grok 日常、Claude 古希腊：`待定`
 
 ## 文档
 
